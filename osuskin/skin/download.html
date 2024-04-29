@@ -18,7 +18,7 @@
         "@type": "OhWalP",
         "name": "Download WalP 1.3 (2024-3-15) | OhWalP",
         "aggregateRating": {
-        "@type": "osu skin download",
+        "@type": "WalP 1.3 Download",
         "ratingValue": "5",
         "bestRating": "5",
         "ratingCount": "34"
@@ -57,7 +57,60 @@
         </div>
         <div class="row skin-page-details pt-5">
             <div class="col-md-9">
-                <img src="https://ohwalp.github.io/assets/images/gallery01/9a38bc67.jpg?v=e6b4d208" alt="WalP 1.3 (2024-3-15)" class="img-fluid">
+                <div class="slideshow-container">
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/c05c9c20.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/0743289e.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/9a38bc67.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/de9cf392.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/0c3b8d4c.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/47a46460.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/0680ae7e.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/65fbc84a.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/4a7c31f6.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/bc642f68.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/172a0450.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/15807729.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/ad709347.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/d5f067c6.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/8c5e0ab5.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <div class="mySlides fade">
+                        <img src="https://ohwalp.github.io/assets/images/gallery01/9b4914a1.jpg?v=e6b4d208" style="width:100%">
+                    </div>
+                    <!-- Add more images here -->
+
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
             </div>
             <div class="col-md-3">
                 <div class="sidebar">
@@ -121,6 +174,64 @@
             border-color: #28a745; /* Green */
             color: #fff;
         }
+
+        /* Slideshow CSS */
+        .slideshow-container {
+            position: relative;
+            max-width: 100%;
+            margin-top: 20px;
+        }
+
+        .mySlides {
+            display: none;
+        }
+
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+
+        .prev:hover, .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
     </style>
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            if (n > slides.length) {slideIndex = 1}
+            if (n < 1) {slideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slides[slideIndex-1].style.display = "block";
+        }
+    </script>
 </body>
 </html>
