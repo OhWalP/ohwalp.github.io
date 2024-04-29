@@ -1,0 +1,156 @@
+Uri: https://pro.fontawesome.com/releases/v5.10.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\css\all.css
+Content Type: text/css
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.osuskins.me\releases\v5.10.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-203311091-1
+File Name: C:\Downloaded Web Sites\www.osuskins.me\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.osuskins.me/Content/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.osuskins.me\Content\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.osuskins.me/Content/custom.css
+File Name: C:\Downloaded Web Sites\www.osuskins.me\Content\custom.css
+Content Type: text/css
+
+Uri: https://www.osuskins.me/Scripts/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.osuskins.me\Scripts\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.osuskins.me/Scripts/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\www.osuskins.me\Scripts\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.osuskins.me/Scripts/modernizr-2.8.3.js
+File Name: C:\Downloaded Web Sites\www.osuskins.me\Scripts\modernizr-2.8.3.js
+Content Type: application/javascript
+
+Uri: https://www.osuskins.me/sitemap.xml
+File Name: C:\Downloaded Web Sites\www.osuskins.me\sitemap.xml
+Content Type: text/xml
+
+Uri: https://www.osuskins.me/skin/flyingtuna-2018-02-xx-rafis-1552
+File Name: C:\Downloaded Web Sites\www.osuskins.me\skin\flyingtuna-2018-02-xx-rafis-1552.html
+Content Type: text/html
+
