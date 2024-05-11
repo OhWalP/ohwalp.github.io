@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="https://ohwalp.github.io/assets/images/image01.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OhWalP | osu!skins page</title>
+    <meta name="keywords" content="osu!skins page">
+    <meta name="description" content="osu!skins page.">
+    <link href="Content/bootstrap.min.css" rel="stylesheet">
+    <link href="Content/custom.css" rel="stylesheet">
+    <link rel="canonical" href="https://ohwalp.github.io/osuskin/download">
+
+    <link rel="stylesheet" href="releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous">
+  
+    <script type="application/ld+json">
+        {
+        "@context": "https://ohwalp.github.io",
+        "@type": "OhWalP",
+        "name": "OhWalP | osu!skins page",
+        "aggregateRating": {
+        "@type": "OhWalP | osu!skins page",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "ratingCount": "34"
+        }
+        }
+    </script>
+      
+</head>
+<body class="skins">
+    <div class="header">
+        <div class="header-left">
+            <div class="logo"><h1><a href="index.htm">OhWalP</a></h1></div>
+        </div>
+    </div>
+    <div class="container body-content">
+<section>
+    <form action="" method="get">
+        <div class="row">
+            <div class="col-12">
+                <ul class="list-inline">
+                </ul>
+            </div>
+        </div>
+    </form>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="skin-container">
+                <a href="https://ohwalp.github.io/osuskin/download">
+                    <div class="skin">
+                        <img class="img-responsive" src="https://ohwalp.github.io/assets/images/gallery01/screenshot381.jpg" alt="WalP 1.4 DT (2024-5-6)">
+                    </div>
+                    <div class="title-container skin-link">
+                        <ul class="stats list-inline">
+                            <li class="list-inline-item"><i class="fas fa-arrow-down"></i> 11K</li>
+                        </ul>
+                        <h2 class="title">WalP 1.4 DT (2024-5-6)</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="skin-container">
+                <a href="https://ohwalp.github.io/osuskin/download13">
+                    <div class="skin">
+                        <img class="img-responsive" src="https://ohwalp.github.io/assets/images/gallery01/c05c9c20.jpg?v=e6b4d208" alt="WalP 1.3 (2024-3-15)">
+                    </div>
+                    <div class="title-container skin-link">
+                        <ul class="stats list-inline">
+                            <li class="list-inline-item"><i class="fas fa-arrow-down"></i> 17K</li>
+                        </ul>
+                        <h2 class="title">WalP 1.3 (2024-3-15)</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="skin-container">
+                <a href="https://ohwalp.github.io/osuskin/itzpros156">
+                    <div class="skin">
+                        <img class="img-responsive" src="https://ohwalp.github.io/assets/images/gallery01/c05c9c20.jpg?v=e6b4d208" alt="iTz_Pros156 1.0">
+                    </div>
+                    <div class="title-container skin-link">
+                        <ul class="stats list-inline">
+                            <li class="list-inline-item"><i class="fas fa-arrow-down"></i> 28K</li>
+                        </ul>
+                        <h2 class="title">iTz_Pros156 1.0</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+</body>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <ul class="list-inline" style="margin-bottom:5px">
+                        <li><a href="https://ohwalp.github.io" target="_blank">Home</a></li>
+                        <li><a href="https://ohwalp.github.io/oldindex.html#aboutme" target="_blank">About Me</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="../Scripts/jquery-3.4.1.min.js"></script>
+    <script src="../Scripts/modernizr-2.8.3.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script>
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+    </script>
+
+    <script src="ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+    <script>
+        jQuery(function ($) {
+            $.fn.select2.amd.require([
+                'select2/selection/single',
+                'select2/selection/placeholder',
+                'select2/selection/allowClear',
+                'select2/dropdown',
+                'select2/dropdown/search',
+                'select2/dropdown/attachBody',
+                'select2/utils'
+            ], function (SingleSelection, Placeholder, AllowClear, Dropdown, DropdownSearch, AttachBody, Utils) {
+
+                var SelectionAdapter = Utils.Decorate(
+                    SingleSelection,
+                    Placeholder
+                );
+
+                SelectionAdapter = Utils.Decorate(
+                    SelectionAdapter,
+                    AllowClear
+                );
+
+                var DropdownAdapter = Utils.Decorate(
+                    Utils.Decorate(
+                        Dropdown,
+                        DropdownSearch
+                    ),
+                    AttachBody
+                );
+
+                //var base_element = $('.select2-multiple2')
+                var count = 1
+                var placehoder = "Select Modes";
+                $('.select2-multiple2').each(function () {
+                    if (count == 2) {
+                        placehoder = "Select Players";
+                    }
+                    count++;
+                    var base_element = $(this);
+                    $(base_element).select2({
+                        placeholder: placehoder,
+                        selectionAdapter: SelectionAdapter,
+                        dropdownAdapter: DropdownAdapter,
+                        allowClear: true,
+                        templateResult: function (data) {
+
+                            if (!data.id) { return data.text; }
+
+                            var $res = $('<div></div>');
+
+                            $res.text(data.text);
+                            $res.addClass('wrap');
+
+                            return $res;
+                        },
+                        templateSelection: function (data) {
+                            if (!data.id) { return data.text; }
+                            var selected = ($(base_element).val() || []).length;
+                            var total = $('option', $(base_element)).length;
+                            return "Selected " + selected + " of " + total;
+                        }
+                    })
+                })
+            });
+
+        });
+    </script>
+    <style>
+        /* Add this CSS */
+        .title-container.skin-link {
+            cursor: pointer;
+        }
+    </style>
+</body>
+</html>
