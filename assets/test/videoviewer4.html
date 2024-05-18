@@ -4,36 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Video Viewer</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-image: url('https://ohwalp.github.io/assets/wallpapaers/%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D9%88%D8%A7%D9%88.jpg');
-            background-size: cover;
-            background-position: center;
-        }
-        .video-container {
-            width: 80%;
-            max-width: 800px;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            overflow: hidden;
-        }
-        iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-    </style>
 </head>
 <body>
-    <div class="video-container">
-        <iframe src="https://ohwalp.github.io/assets/test/doraplz.mp4" allowfullscreen></iframe>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <video width="500" height="300" controls autoplay>
+                    <source src="https://ohwalp.github.io/assets/test/doraplz.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
     </div>
 </body>
 </html>
