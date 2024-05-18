@@ -10,19 +10,30 @@
             padding: 0;
             width: 100%;
             height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: url('https://ohwalp.github.io/assets/wallpapaers/%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D9%88%D8%A7%D9%88.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .video-container {
+            width: 80%;
+            max-width: 800px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
             overflow: hidden;
         }
-        iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
+        video {
             width: 100%;
-            height: 100%;
-            border: none;
+            height: auto;
+            display: block;
         }
     </style>
 </head>
 <body>
-    <iframe src="https://ohwalp.github.io/assets/test/doraplz.mp4" allowfullscreen></iframe>
+    <div class="video-container">
+        <video src="https://ohwalp.github.io/assets/test/doraplz.mp4" autoplay muted controls></video>
+    </div>
 </body>
 </html>
