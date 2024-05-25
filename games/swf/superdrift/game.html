@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flash Game with Ruffle - Super Drift 3D</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #flash-container {
+            margin: 20px auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Flash Game with Ruffle</h1>
+        <div id="flash-container"></div>
+    </div>
+
+    <script src="path/to/ruffle.js"></script>
+    <script>
+        const flashContainer = document.getElementById('flash-container');
+        RufflePlayer.bootstrap([{
+            target: flashContainer,
+            url: 'path/to/your/game.swf',
+            backgroundColor: '#ffffff'
+        }]);
+    </script>
+</body>
+</html>
