@@ -77,16 +77,16 @@
         </div>
     </div>
 
-    <script src="https://ohwalp.github.io/games/swf/superdrift/ruffle.js"></script> <!-- Ensure ruffle.js is in the same directory -->
+    <script src="https://ohwalp.github.io/games/swf/ruffle.js"></script> <!-- Ensure ruffle.js is in the same directory -->
     <script>
         const flashContainer = document.getElementById('flash-container');
         const ruffle = RufflePlayer.newest();
         const player = ruffle.createPlayer();
         flashContainer.appendChild(player);
-        player.load('https://ohwalp.github.io/games/swf/superdrift/Super_Drift_3D.swf');  // Update with the path to your SWF file
+        player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');  // Update with the path to your SWF file
 
         function restartGame() {
-            player.load('https://ohwalp.github.io/games/swf/superdrift/Super_Drift_3D.swf');  // Update with the path to your SWF file
+            player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');  // Update with the path to your SWF file
         }
 
         function pauseGame() {
