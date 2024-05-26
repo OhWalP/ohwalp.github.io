@@ -30,14 +30,15 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
+            flex: 1;
         }
         h1 {
             color: #333;
         }
         #flash-container {
             width: 100%;
+            height: 100%;
             flex: 1;
-            margin: 20px 0;
             background-color: #000;
             display: flex;
             justify-content: center;
@@ -61,7 +62,7 @@
             cursor: pointer;
         }
         .tools button:hover {
-            background-color: #0056b3;
+            background-color: green;
         }
     </style>
 </head>
@@ -77,16 +78,16 @@
         </div>
     </div>
 
-    <script src="https://ohwalp.github.io/games/swf/ruffle.js"></script> <!-- Ensure ruffle.js is in the same directory -->
+    <script src="https://ohwalp.github.io/games/swf/ruffle.js"></script>
     <script>
         const flashContainer = document.getElementById('flash-container');
         const ruffle = RufflePlayer.newest();
         const player = ruffle.createPlayer();
         flashContainer.appendChild(player);
-        player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');  // Update with the path to your SWF file
+        player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');
 
         function restartGame() {
-            player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');  // Update with the path to your SWF file
+            player.load('https://ohwalp.github.io/games/swf/Super_Drift_3D.swf');
         }
 
         function pauseGame() {
@@ -106,6 +107,8 @@
                 document.exitFullscreen();
             }
         }
+
+        flashContainer.addEventListener('click', toggleFullscreen);
     </script>
 </body>
 </html>
